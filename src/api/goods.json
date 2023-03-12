@@ -422,7 +422,7 @@
       "image": "img/laptops/macbook-air-spacegray-256gb.jpg"
    },
    {
-      "id": "28",
+      "id": "29",
       "itemId": "apple-macbook-air-256gb-midnight",
       "name": "Apple MacBook Air M2 Midnight",
       "capacity": "256GB",
@@ -437,7 +437,7 @@
       "rating": 4.8
    },
    {
-      "id": "29",
+      "id": "30",
       "itemId": "apple-macbook-air-512gb-starlight",
       "name": "Apple MacBook Air M2 Starlight 512GB",
       "capacity": "512GB",
@@ -452,7 +452,7 @@
       "image": "img/laptops/macbook-air-starlight-512gb.jpg"
    },
    {
-      "id": "30",
+      "id": "31",
       "itemId": "apple-macbook-pro-512gb-spacegray",
       "name": "Apple MacBook Pro M1 Space Gray 512GB",
       "capacity": "512GB",
@@ -467,7 +467,7 @@
       "image": "img/laptops/macbook-pro-spacegray-512gb.jpg"
    },
    {
-      "id": "31",
+      "id": "32",
       "itemId": "apple-watch-se-midnight",
       "name": "Apple Watch SE Midnight Aluminum Case",
       "capacity": "32GB",
@@ -482,7 +482,7 @@
       "image": "img/watches/watch-se-midnight.jpg"
    },
    {
-      "id": "32",
+      "id": "33",
       "itemId": "apple-watch-s8-silver",
       "name": "Apple Watch Series 8 Silver Aluminum Case",
       "capacity": "32GB",
@@ -497,7 +497,7 @@
       "rating": 4.3
    },
    {
-      "id": "33",
+      "id": "34",
       "itemId": "apple-watch-ultra-starlight",
       "name": "Apple Watch ULTRA 49mm Titanium Case ",
       "capacity": "32GB",
