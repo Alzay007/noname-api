@@ -5,6 +5,11 @@ var goods = JSON.parse(fs.readFileSync(filePath, "utf-8"));
 export function getAll() {
     return goods;
 }
+export function getPhones() {
+    return goods.filter(function(product) {
+        return product.category === "phones";
+    });
+}
 export function getById(productId) {
     var foundProduct = goods.find(function(product) {
         return product.id === productId;
